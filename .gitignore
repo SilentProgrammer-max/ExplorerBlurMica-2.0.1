@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ExplorerBlurMica/FileContentIndex
+/.vs
+/ExplorerBlurMica/x64/Release
+/build/x64/Release/ExplorerBlurMica.dll
+/build/x64/Release/ExplorerBlurMica.exp
+/build/x64/Release/ExplorerBlurMica.lib
+/build/x64/Release/ExplorerBlurMica.pdb
+/ExplorerBlurMica/x64/Debug
+/build/x64/Debug
+/build/x64/Release_x64.zip
+*.cpp
+/packages
+/ExplorerBlurMica/HookHelper
+/ExplorerBlurMica/old
+/ExplorerBlurMica/Helper/DirectUIHelper.h
+/ExplorerBlurMica/dllmain.cpp
+/build/x64/Release/ExplorerBlurMica.pri
+/build/x64/Release/Microsoft.WindowsAppRuntime.Bootstrap.dll
+/screenshot/new

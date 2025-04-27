@@ -1,0 +1,81 @@
+                    GNU LESSER GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+    This version of the Lesser General Public License incorporates
+    the terms and conditions of version 3 of the GNU General Public
+    License, supplemented by the additional permissions listed below.
+
+0. Additional Definitions.
+
+  As used herein, “this License” refers to version 3 of the GNU Lesser
+  General Public License, and the “Library” refers to a covered work
+  governed by this License.  A “work that uses the Library” means any
+  work that contains code derived from the Library, or that links
+  to the Library.  Such a work is called a “Combined Work” if it
+  otherwise qualifies as an “Executable” under the terms of the GNU
+  General Public License, and provided that it is not itself a
+  library.
+
+1. Exception to Section 3 of the GNU GPL.
+
+  You may convey a Combined Work under terms of your choice, provided
+  that you also meet the requirements of this License.  You must
+  ensure that the Combined Work as a whole is at least as free as the
+  Library.  In other words, you must license the Combined Work
+  also under the GNU GPL, or remove any portions of the Combined Work
+  that are not covered by this License before distributing.
+
+2. Conveying Modified Versions.
+
+  You may convey modifications of the Library under the terms of
+  the GNU GPL, provided that you also do all of the following:
+
+    a) Give prominent notice that you modified the files, including
+       a relevant date.
+
+    b) Cause the modified files to carry prominent notices stating
+       that they are released under this License and any conditions
+       added under section 7.
+
+    c) Accompany the modified work with a machine-readable copy of
+       the License.
+
+3. Combined Works.
+
+  You may convey a Combined Work under terms of your choice that
+  permit modification of the Combined Work for the customer’s own
+  use, but only if you also do each of the following:
+
+    a) Give prominent notice that the Library is used in the Combined
+       Work and that the Library and its use are covered by this License.
+
+    b) Accompany the Combined Work with a copy of the GNU GPL and a
+       copy of the GNU LGPL (this License).
+
+4. Combined Libraries.
+
+  You may place library facilities that are supplied with the
+  Combined Work under a license of your choice, provided that you
+  compensate for that by providing equivalent access to copy the
+  source code of the Library portion under this License.
+
+5. Minimal Corresponding Source.
+
+  The “Minimal Corresponding Source” for a Combined Work include
+  the source code for the portions of the Library included in the
+  Combined Work, plus any associated interface definition files.
+
+6. Revised Versions of this License.
+
+  The Free Software Foundation may publish revised and/or new
+  versions of the GNU LGPL from time to time.  You may always
+  follow the terms and conditions of the version of the LGPL
+  specified in the Combined Work, or (at your option) any later
+  version published by the FSF.
+
+                            END OF TERMS
+
