@@ -1,5 +1,4 @@
-
- ExplorerBlurMica
+## ExplorerBlurMica
 
 Add **Blur**, **Acrylic** or **Mica** background effects to Windows File Explorer on Windows 10 and 11.
 
