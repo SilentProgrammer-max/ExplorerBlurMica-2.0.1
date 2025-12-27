@@ -6,7 +6,7 @@ Add **Blur**, **Acrylic** or **Mica** background effects to Windows File Explore
 [![Downloads](https://img.shields.io/github/downloads/Maplespe/ExplorerBlurMica/total.svg)](https://github.com/Maplespe/ExplorerBlurMica/releases)  
 [![Latest Release](https://img.shields.io/github/release/Maplespe/ExplorerBlurMica.svg)](https://github.com/Maplespe/ExplorerBlurMica/releases/latest)  
 ![Language: C++](https://img.shields.io/badge/language-c++-F34B7D.svg)  
-![Last Commit](https://img.shields.io/badge/Last%20Commit-27%20December-orange)  
+![Last Commit](https://img.shields.io/badge/Last%20Commit-27%20December-yellow)  
 
 ---
 
