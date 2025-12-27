@@ -41,7 +41,7 @@ Also supports third-party themes.
 
 <details><summary><strong>Windows 11</strong></summary>
 
-**WinUI 3 (23H2 / 24H2 Canary)**  
+**WinUI 3 (23H2+ / 24H2 Canary)**  
 ```ini
 [config]
 effect=1
