@@ -1,4 +1,4 @@
-﻿/**
+﻿/** 
  * FileName: DirectUITWeaker.h
  *
  * Copyright (C) 2022-2024 Ayesha
