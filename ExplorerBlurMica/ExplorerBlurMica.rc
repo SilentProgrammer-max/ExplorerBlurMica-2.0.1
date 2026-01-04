@@ -13,7 +13,7 @@
 #undef APSTUDIO_READONLY_SYMBOLS
 
 /////////////////////////////////////////////////////////////////////////////
-// ÖĞÎÄ(¼òÌå£¬ÖĞ¹ú) resources
+// ä¸­æ–‡(ç®€ä½“ï¼Œä¸­å›½) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
 LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
@@ -57,12 +57,12 @@ BEGIN
     END
 END
 
-#endif    // ÖĞÎÄ(¼òÌå£¬ÖĞ¹ú) resources
+#endif    // ä¸­æ–‡(ç®€ä½“ï¼Œä¸­å›½) resources
 /////////////////////////////////////////////////////////////////////////////
 
 
 /////////////////////////////////////////////////////////////////////////////
-// ÖĞÎÄ(¼òÌå£¬ĞÂ¼ÓÆÂ) resources
+// ä¸­æ–‡(ç®€ä½“ï¼Œæ–°åŠ å¡) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ZHI)
 LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SINGAPORE
@@ -93,7 +93,7 @@ END
 
 #endif    // APSTUDIO_INVOKED
 
-#endif    // ÖĞÎÄ(¼òÌå£¬ĞÂ¼ÓÆÂ) resources
+#endif    // ä¸­æ–‡(ç®€ä½“ï¼Œæ–°åŠ å¡) resources
 /////////////////////////////////////////////////////////////////////////////
 
 
@@ -107,4 +107,3 @@ END
 
 /////////////////////////////////////////////////////////////////////////////
 #endif    // not APSTUDIO_INVOKED
-
