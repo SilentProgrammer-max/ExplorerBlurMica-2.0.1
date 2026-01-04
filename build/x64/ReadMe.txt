@@ -1,4 +1,3 @@
-
 ### v2.0.1 – 2024-02-12
 - Compatible with Windows 11 Preview Canary 23H2 26040 and 24H2 26052  
 - Optimized compatibility with StartAllBack  
